@@ -1,0 +1,5 @@
+In this file, we hope you will find :
+-A recorded video briefly summarizing our project.
+-A ppt file used in the presentaion to better visualize the project.
+-The html file.
+ 
